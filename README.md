@@ -34,14 +34,9 @@ tensorflow-gpu==2.1.0
 </p>
 
 ## What did I learn?
-#### Problem: Loss function was decreasing but oscillating
+#### Problem: 
 Solution:<br>
-Reducing the learning rate, use momentum on SGD (or better, use momentum based optimizers like Adam)
-#### Problem: Difference in final values of valdaition and training accuracy
-Solution:<br>
-Underfitting - val and train accuracy low<br>
-Overfitting - high train accuracy, low val accuracy<br>
-Good fit - val accuracy close to train accuracy and both are high<br>
-Unknown fit - high val accuracy, low train accuracy<br>
 
-My model was facing overfitting, so I increased the batch size and added dropout layers.
+#### Problem: 
+Solution:<br>
+
