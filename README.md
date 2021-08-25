@@ -1,5 +1,5 @@
 # text-emotion-detection
-Multi-class text classification of tweets into 'figurative , 'sarcasm', 'irony', and 'regular'.
+Detection of presence of various types of emotion in a given text.
 
 ## Contents
 * [Overview](#overview)
@@ -11,10 +11,10 @@ Multi-class text classification of tweets into 'figurative , 'sarcasm', 'irony',
 * [What did I learn](#what-did-i-learn)
 
 ## Overview
-A model which classifies the tweeted texts into four figures of speech - figurative, irony, sarcasm, regular.
+A model which detects the percentage of emotions present in the given text.
 
 ## Motivation
-Although this may seem to be a small classification problem, but for a machine it is crucial to understand the figurative language to understand the context behind any scentence. When figure of speeches are used in the text, the literal meaning is different than the actual meaning. This may cause problem in language related models.
+For a machine it is crucial to understand the figurative language to understand the context behind any scentence.
 
 ## Dataset
 The dataset was downloaded from Kaggle<br>
