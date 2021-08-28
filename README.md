@@ -27,11 +27,11 @@ tensorflow-gpu==2.1.0
 
 ## Repository files
 emotion_detection_text_dataset  : contains dataset (both original and after pre processing)
-saved_model_text_classification : saved TensorFlow model
-emotion_detection_2.ipnyb       : jupyter notebook 
-model_layers.png                : image for training model used
-text_cleaning.py                : custom python function to clean data for efficient tokanization
-
+<br>saved_model_text_classification : saved TensorFlow model
+<br>emotion_detection_2.ipnyb       : jupyter notebook 
+<br>model_layers.png                : image for training model used
+<br>text_cleaning.py                : custom python function to clean data for efficient tokanization
+<br>
 
 ## Model
 <p align="center">
